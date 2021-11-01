@@ -1,2 +1,3 @@
 # hello-world
-just a test
+hello timoma
+this is a first comit
